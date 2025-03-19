@@ -46,7 +46,7 @@ Phase 2: Core Features & Routing
 - Redirects, rewrites, and custom error pages (404, 500)
 - Middleware for route protection (using Next.js middleware in the `middleware.ts` file)
 
-4. Data Fetching Strategies
+4. Data Fetching Strategies [Done]
 ---------------------------
 **Static Site Generation (SSG):**
 - Using `getStaticProps` to fetch data at build time
